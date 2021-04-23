@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Matematico
+comment1.params=num1\ num2\ num3
+comment1.target=java.lang.String\ mostrarNumMenor(double,\ double,\ double)
+comment2.params=num1\ num2\ num3
+comment2.target=java.lang.String\ mostrarNumeroDelMedio(double,\ double,\ double)
+comment3.params=num1\ num2\ num3
+comment3.target=java.lang.String\ mostrarNumeroMayor(double,\ double,\ double)
+comment4.params=base\ altura
+comment4.target=double\ areaDelCuadrado(double,\ double)
+comment5.params=X1\ X2\ Y1\ Y2
+comment5.target=double\ distanciaEntreDosPuntos(double,\ double,\ double,\ double)
+comment6.params=x\ y
+comment6.target=java.lang.String\ enQueCuadranteSeEncuentra(double,\ double)
+comment7.params=calculadora
+comment7.target=Matematico(Calculadora)
+numComments=8
